@@ -1,2 +1,2 @@
 # sqleuropeansoccermatchesanalysis
-Inventory management project for SQL
+European soccer match analysis
